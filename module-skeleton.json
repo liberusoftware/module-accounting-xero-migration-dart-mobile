@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-xero-migration-dart-mobile",
+  "capabilityKey": "liberusoftware/module-accounting-xero-migration",
+  "presentation": "dart-mobile",
+  "package": "module_accounting_xero_migration_dart_mobile",
+  "foundation": "module-boilerplate-dart-mobile",
+  "foundationCommit": "0656c212b36ef4f8ffd6fc74db4ac541268e7d31",
+  "canonicalPlan": "projects/accounting/nextjs/xero-migration.md",
+  "presentationPlan": "projects/accounting/features/xero-migration.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
